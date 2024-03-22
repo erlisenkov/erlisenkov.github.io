@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Новое | Academic</title>
+    <link>https://example.com/category/%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5/</link>
+      <atom:link href="https://example.com/category/%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <description>Новое</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Новое</title>
+      <link>https://example.com/category/%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки.</title>
+      <link>https://example.com/post/post/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post/</guid>
+      <description>&lt;h2 id=&#34;легковесные-языки-разметки&#34;&gt;Легковесные языки разметки.&lt;/h2&gt;
+&lt;p&gt;Легкий язык разметки является типом разметки языка , используя простой синтаксис , разработанный , чтобы быть легко печатать с простым текстовым редактором , и легко читаются в его бесформатной форме .&lt;/p&gt;
+&lt;h2 id=&#34;типы&#34;&gt;Типы&lt;/h2&gt;
+&lt;p&gt;Легкие языки разметки можно разделить на категории в соответствии с типом используемой разметки. Как и HTML, в некоторых языках используются открывающие и закрывающие теги с одинаковыми названиями (например: &lt;b&gt; полужирный &lt;/b&gt; в HTML или [b] полужирный [/ b] в BBcode ), а в других - знаки препинания и другие специальные Символы ASCII как теги. Третьи используют оба способа (например: Textile ) или позволяют встраивать HTML (например: Markdown ), иногда путем добавления элементов (например: &lt;ref&gt; source &lt;/ref&gt; в MediaWiki ).&lt;/p&gt;
+&lt;p&gt;В большинстве языков есть теги для строк или блоков, а в некоторых - для небольших частей текста (несколько слов), но некоторые предлагают теги только для больших блоков текста.&lt;/p&gt;
+&lt;p&gt;Некоторые языки предназначены для конкретного использования, например, для документации программного кода (например, POD, RD), или могут быть преобразованы только в один формат (обычно HTML). У других более широкий диапазон возможностей.&lt;/p&gt;
+&lt;p&gt;Для создания документов используются следующие языки: AsciiDoc , atx , BBCode , Creole, Epytext, Gemtext, Haml , JsonML, MakeDoc, Markdown , Org-mode , POD , RD, ReStructuredText , Setext , SISU, SPIP , Texy!, Текстиль , Txt2tags , UDO, Wikitexte и Xupl.&lt;/p&gt;
+&lt;p&gt;Скорее они используются для представления данных: Curl , JSON , OGDL и YAML .&lt;/p&gt;
+&lt;h2 id=&#34;исторический&#34;&gt;Исторический&lt;/h2&gt;
+&lt;p&gt;Первоначально, легкие языки разметки были использованы на экранах не графики , которые не могли отображения символов в курсивом или жирным шрифтом . Чтобы обозначить эти основные моменты, потребовались неформальные методы. Этот вариант форматирования затем использовался при обмене сообщениями электронной почты .&lt;/p&gt;
+&lt;p&gt;В 1986 году международный стандарт SGML предоставил средства для определения и анализа облегченных языков разметки.&lt;/p&gt;
+&lt;p&gt;История облегченных языков разметки тесно связана с издательскими технологиями, будь то в области технической документации или публикации.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
