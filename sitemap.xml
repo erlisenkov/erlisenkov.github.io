@@ -38,11 +38,23 @@
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/wow-2/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/post/getting-started/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/category/%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/%D0%BF%D1%80%D0%BE%D0%B3%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B5/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/wow-3/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
